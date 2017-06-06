@@ -72,7 +72,7 @@ Use an empty string for methods with no arguments, or an array of values for met
 $('#clickme').setProps({
 	focus: '',
 	addEventListener: ['click', function() {
-		alert('Wahoo!’)
+		alert('Wahoo!')
 	}, true]
 });
 ```
