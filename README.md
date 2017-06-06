@@ -1,6 +1,6 @@
 # github-flavored 
 
-## A micro DOM library
+## A micro DOM library 
 	
 **Dominique** is a tiny JavaScript library who thinks most of the JavaScript DOM API is a-ok, and doesn't really need any sweeping, opinionated framework to take over and start bossing it around. But there *are* a few things about the DOM that are just, well, yeah. In need.
 
