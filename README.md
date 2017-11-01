@@ -1,7 +1,3 @@
-<style>
-	tab-space: 4;
-</style>
-
 # github-flavored 
 
 ## A micro DOM library 
@@ -18,7 +14,7 @@ Users of popular JavaScript libraries will be familiar with selectors such as ``
 $('html').lang = 'en';
 $('#clickme').focus();
 for (var i of $('.querybob')) {
-	i = 'Hi, Bob!';
+    i = 'Hi, Bob!';
 }
 ```
 
