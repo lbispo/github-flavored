@@ -1,3 +1,7 @@
+<style>
+	tab-space: 4;
+</style>
+
 # github-flavored 
 
 ## A micro DOM library 
